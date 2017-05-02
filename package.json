@@ -1,0 +1,25 @@
+{
+  "name": "my-module",
+  "version": "0.1.0",
+  "description": "modulo para el curso de fundamentos de javascript en platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthaban/module.git"
+  },
+  "keywords": [
+    "npm",
+    "javascript",
+    "platzi",
+    "js"
+  ],
+  "author": "Esteban Saravia <estebansaravia@gmail.com> (https://twitter.com/esaraviam)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arthaban/module/issues"
+  },
+  "homepage": "https://github.com/arthaban/module#readme"
+}
