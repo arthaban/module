@@ -4,7 +4,7 @@
   "description": "modulo para el curso de fundamentos de javascript en platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
   },
   "repository": {
     "type": "git",
