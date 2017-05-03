@@ -1,5 +1,5 @@
 {
-  "name": "my-module",
+  "name": "@esaraviam/my-platzom-js",
   "version": "0.1.0",
   "description": "modulo para el curso de fundamentos de javascript en platzi",
   "main": "lib/platzom.js",
